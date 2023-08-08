@@ -22,5 +22,8 @@ mode = "fancy"
 		[light_sources.settings.entities]
 
 			[light_sources.settings.entities.minecraft]
+				area_effect_cloud = true
 				glow_item_frame = false
+				player = true
+				slime = true
 

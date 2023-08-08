@@ -41,7 +41,12 @@ legibleCaveMaps:false
 displayCaveModeStart:true
 caveModeToggleTimer:1000
 defaultCaveModeType:1
-pacPlayers:true
+biomeBlending:true
+trackedPlayers:true
+multipleImagesExport:false
+nightExport:false
+highlightsExport:false
+exportScaleDownSquare:20
 displayClaims:true
 claimsFillOpacity:46
 claimsBorderOpacity:80
