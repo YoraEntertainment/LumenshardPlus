@@ -1,6 +1,6 @@
 {
   "minecraft": {
-    "version": "1.19.4",
+    "version": "1.20.1",
     "modLoaders": [
       {
         "id": "fabric-0.14.22",
@@ -11,82 +11,77 @@
   "manifestType": "minecraftModpack",
   "manifestVersion": 1,
   "name": "Lumenshard+",
-  "version": "1.19.4",
-  "author": "itsHexxie",
+  "version": "1.20.1",
+  "author": "Hexxie",
   "files": [
     {
-      "projectID": 360438,
-      "fileID": 4439705,
-      "required": true
-    },
-    {
-      "projectID": 521783,
-      "fileID": 3835973,
-      "required": true
-    },
-    {
-      "projectID": 627566,
-      "fileID": 4465266,
-      "required": true
-    },
-    {
       "projectID": 521480,
-      "fileID": 4437104,
-      "required": true
-    },
-    {
-      "projectID": 574741,
-      "fileID": 4493431,
-      "required": true
-    },
-    {
-      "projectID": 263466,
-      "fileID": 4503440,
-      "required": true
-    },
-    {
-      "projectID": 394468,
-      "fileID": 4437119,
+      "fileID": 4630615,
       "required": true
     },
     {
       "projectID": 348521,
-      "fileID": 4633432,
+      "fileID": 4633442,
       "required": true
     },
     {
-      "projectID": 393442,
-      "fileID": 4597862,
+      "projectID": 360438,
+      "fileID": 4765724,
+      "required": true
+    },
+    {
+      "projectID": 521783,
+      "fileID": 4572096,
+      "required": true
+    },
+    {
+      "projectID": 521427,
+      "fileID": 4577525,
       "required": true
     },
     {
       "projectID": 306612,
-      "fileID": 4663818,
+      "fileID": 4777229,
       "required": true
     },
     {
       "projectID": 308769,
-      "fileID": 4654791,
+      "fileID": 4719981,
       "required": true
     },
     {
       "projectID": 417510,
-      "fileID": 4652682,
+      "fileID": 4738879,
       "required": true
     },
     {
-      "projectID": 455508,
-      "fileID": 4683500,
+      "projectID": 459496,
+      "fileID": 4765124,
+      "required": true
+    },
+    {
+      "projectID": 393442,
+      "fileID": 4748219,
+      "required": true
+    },
+    {
+      "projectID": 263466,
+      "fileID": 4722986,
       "required": true
     },
     {
       "projectID": 317780,
-      "fileID": 4685560,
+      "fileID": 4749602,
       "required": true
     },
     {
       "projectID": 667299,
-      "fileID": 4661997,
+      "fileID": 4772784,
+      "required": true
+    },
+    {
+      "projectID": 574741,
+      "fileID": 4729753,
       "required": true
     }
   ],
