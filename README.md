@@ -17,6 +17,7 @@ to improve user experience on the Lumenshard server (alpha coming soon!).**
 
 [Discover Lumenshard here!](https://www.lumenshardmc.com/)
 
+[Join our Discord](https://www.lumenshardmc.com/discord)
 
 [See more on Modrinth.](https://modrinth.com/modpack/lumenshardplus)
 
