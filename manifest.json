@@ -3,7 +3,7 @@
     "version": "1.20.1",
     "modLoaders": [
       {
-        "id": "fabric-0.14.22",
+        "id": "fabric-0.15.3",
         "primary": true
       }
     ]
@@ -15,43 +15,13 @@
   "author": "Hexxie",
   "files": [
     {
-      "projectID": 521480,
-      "fileID": 4630615,
-      "required": true
-    },
-    {
-      "projectID": 348521,
-      "fileID": 4633442,
-      "required": true
-    },
-    {
-      "projectID": 360438,
-      "fileID": 4765724,
-      "required": true
-    },
-    {
-      "projectID": 521783,
-      "fileID": 4572096,
-      "required": true
-    },
-    {
       "projectID": 521427,
       "fileID": 4577525,
       "required": true
     },
     {
-      "projectID": 306612,
-      "fileID": 4777229,
-      "required": true
-    },
-    {
-      "projectID": 308769,
-      "fileID": 4719981,
-      "required": true
-    },
-    {
       "projectID": 417510,
-      "fileID": 4738879,
+      "fileID": 4786507,
       "required": true
     },
     {
@@ -65,13 +35,18 @@
       "required": true
     },
     {
-      "projectID": 263466,
-      "fileID": 4722986,
+      "projectID": 360438,
+      "fileID": 4765724,
       "required": true
     },
     {
-      "projectID": 317780,
-      "fileID": 4749602,
+      "projectID": 394468,
+      "fileID": 4861720,
+      "required": true
+    },
+    {
+      "projectID": 521783,
+      "fileID": 4572096,
       "required": true
     },
     {
@@ -82,6 +57,41 @@
     {
       "projectID": 574741,
       "fileID": 4729753,
+      "required": true
+    },
+    {
+      "projectID": 306612,
+      "fileID": 4902738,
+      "required": true
+    },
+    {
+      "projectID": 348521,
+      "fileID": 4973440,
+      "required": true
+    },
+    {
+      "projectID": 308769,
+      "fileID": 4975630,
+      "required": true
+    },
+    {
+      "projectID": 521480,
+      "fileID": 5021023,
+      "required": true
+    },
+    {
+      "projectID": 263466,
+      "fileID": 4978263,
+      "required": true
+    },
+    {
+      "projectID": 317780,
+      "fileID": 4929772,
+      "required": true
+    },
+    {
+      "projectID": 448233,
+      "fileID": 4763646,
       "required": true
     }
   ],
